@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img width="100%" height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h1 align="center">Hi 👋, I'm Nischal Bade</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Web developer from Nepal</h3>
 <img width="400" align="right" src ="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1826414947.1699833600&semt=ais">
 - 🌱 I’m currently learning **Digital Marketing**
 
